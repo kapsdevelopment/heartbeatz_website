@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="nb">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Heartbeatz</title>
+    <meta name="description" content="Heartbeatz – music that moves with you." />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+
+  <body>
+    <div class="background-glow" aria-hidden="true"></div>
+
+    <main class="page">
+      <section class="hero card" aria-labelledby="page-title">
+        <div class="top-row">
+          <div class="brand-lockup">
+            <img
+              class="brand-mark"
+              src="./assets/heartbeatz_logo_bg_1B0E2F.png"
+              alt="Heartbeatz"
+              loading="eager"
+            />
+            <h1 id="page-title" class="sr-only" data-i18n="seo.h1"></h1>
+          </div>
+
+          <div class="lang" aria-label="Language">
+            <button class="lang-btn" type="button" data-lang="nb" aria-label="Norsk">
+              NO
+            </button>
+            <button class="lang-btn" type="button" data-lang="en" aria-label="English">
+              EN
+            </button>
+          </div>
+        </div>
+
+        <p class="tagline" data-i18n="hero.tagline"></p>
+
+        <div class="actions">
+          <!-- TODO: Replace href with App Store / Google Play when ready -->
+          <a class="btn btn-primary" href="#download" data-i18n="cta.getApp"></a>
+          <a class="btn btn-secondary" href="#listen" data-i18n="cta.listen"></a>
+        </div>
+
+        <p class="subnote" data-i18n="hero.subnote"></p>
+      </section>
+
+      <section class="card section how-it-works" id="how-it-works">
+        <div class="section-head">
+          <h2 data-i18n="how.title"></h2>
+          <p data-i18n="how.lead"></p>
+        </div>
+
+        <div class="steps">
+          <article class="step">
+            <span class="icon" aria-hidden="true">⌚</span>
+            <h3 data-i18n="how.step1.title"></h3>
+            <p data-i18n="how.step1.body"></p>
+          </article>
+
+          <article class="step">
+            <span class="icon" aria-hidden="true">🏃</span>
+            <h3 data-i18n="how.step2.title"></h3>
+            <p data-i18n="how.step2.body"></p>
+          </article>
+
+          <article class="step">
+            <span class="icon" aria-hidden="true">🎧</span>
+            <h3 data-i18n="how.step3.title"></h3>
+            <p data-i18n="how.step3.body"></p>
+          </article>
+        </div>
+      </section>
+
+      <section class="card section listen" id="listen">
+        <div class="section-head">
+          <h2 data-i18n="listen.title"></h2>
+          <p data-i18n="listen.body"></p>
+        </div>
+
+        <div class="platform-links">
+          <!-- Replace href values with your real links -->
+          <a class="pill" href="#" data-i18n="listen.youtube" aria-label="YouTube"></a>
+          <a class="pill" href="#" data-i18n="listen.spotify" aria-label="Spotify"></a>
+          <a class="pill" href="#" data-i18n="listen.apple" aria-label="Apple Music"></a>
+        </div>
+      </section>
+
+      <section class="card section download" id="download">
+        <div class="section-head">
+          <h2 data-i18n="download.title"></h2>
+          <p data-i18n="download.body"></p>
+        </div>
+
+        <div class="download-actions">
+          <!-- Put real store badges/links later -->
+          <a class="btn btn-primary" href="#" data-i18n="download.primaryCta"></a>
+          <a class="btn btn-secondary" href="mailto:hello@heartbeatz.me" data-i18n="download.secondaryCta"></a>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p><a href="./" data-i18n="footer.domain"></a></p>
+      <p data-i18n="footer.contact"></p>
+    </footer>
+
+    <script src="./main.js"></script>
+  </body>
+</html>

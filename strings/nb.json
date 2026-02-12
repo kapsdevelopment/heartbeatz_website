@@ -1,0 +1,46 @@
+{
+  "seo": {
+    "h1": "Heartbeatz"
+  },
+  "hero": {
+    "tagline": "Musikk som treffer rytmen din – og holder deg i flyt.",
+    "subnote": "Hør musikken hvor du vil. Bruk appen når du vil ha en opplevelse som føles synka med deg."
+  },
+  "cta": {
+    "getApp": "Last ned appen",
+    "listen": "Hør musikken"
+  },
+  "how": {
+    "title": "Slik fungerer det",
+    "lead": "Heartbeatz matcher musikk til tempoet ditt – enkelt og smooth.",
+    "step1": {
+      "title": "1. Koble til (telefon / Apple Watch)",
+      "body": "Start en økt på mobilen eller klokka – Heartbeatz fanger cadence."
+    },
+    "step2": {
+      "title": "2. Beveg deg i ditt tempo",
+      "body": "Når tempoet endrer seg, følger musikken etter – uten at du må fikle."
+    },
+    "step3": {
+      "title": "3. Finn favoritter",
+      "body": "Lagre låter du liker, og bygg din egen treningssoundtrack over tid."
+    }
+  },
+  "listen": {
+    "title": "Hør",
+    "body": "Stream Heartbeatz på plattformen du liker best.",
+    "youtube": "YouTube",
+    "spotify": "Spotify",
+    "apple": "Apple Music"
+  },
+  "download": {
+    "title": "App",
+    "body": "Heartbeatz er gratis. Store-lenker kommer når vi er klare.",
+    "primaryCta": "Kommer snart",
+    "secondaryCta": "Kontakt oss"
+  },
+  "footer": {
+    "domain": "heartbeatz.me",
+    "contact": "Kontakt: hello@heartbeatz.me"
+  }
+}

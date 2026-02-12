@@ -1,0 +1,46 @@
+{
+  "seo": {
+    "h1": "Heartbeatz"
+  },
+  "hero": {
+    "tagline": "Music that matches your rhythm — and keeps you in flow.",
+    "subnote": "Listen anywhere. Use the app when you want the experience to feel perfectly synced to you."
+  },
+  "cta": {
+    "getApp": "Get the app",
+    "listen": "Listen"
+  },
+  "how": {
+    "title": "How it works",
+    "lead": "Heartbeatz matches music to your pace — simple and smooth.",
+    "step1": {
+      "title": "1. Connect (phone / Apple Watch)",
+      "body": "Start a session on your phone or watch — Heartbeatz reads your cadence."
+    },
+    "step2": {
+      "title": "2. Move at your pace",
+      "body": "As your tempo changes, the music follows — no fiddling required."
+    },
+    "step3": {
+      "title": "3. Save favorites",
+      "body": "Save tracks you love and build your workout soundtrack over time."
+    }
+  },
+  "listen": {
+    "title": "Listen",
+    "body": "Stream Heartbeatz on your favorite platform.",
+    "youtube": "YouTube",
+    "spotify": "Spotify",
+    "apple": "Apple Music"
+  },
+  "download": {
+    "title": "App",
+    "body": "Heartbeatz is free. Store links will appear when we’re ready.",
+    "primaryCta": "Coming soon",
+    "secondaryCta": "Contact us"
+  },
+  "footer": {
+    "domain": "heartbeatz.me",
+    "contact": "Contact: hello@heartbeatz.me"
+  }
+}
